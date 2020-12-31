@@ -5,7 +5,8 @@ import Button from "@material-ui/core/Button";
 
 const styles = {
   width: "200px",
-  margin: "20px auto",
+  margin: "20px auto 0 auto",
+  paddingBottom: "10%",
 };
 
 export default function Game() {
